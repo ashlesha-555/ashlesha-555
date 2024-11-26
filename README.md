@@ -6,9 +6,9 @@
 ---
 
 ## ✨ About Me
-- 👩‍💻 **AI Enthusiast** | **Frontend Explorer** | **Game Developer**  
+- 👩‍💻 **AI Enthusiast** | **Frontend Developer** | **Graphic Designer**  
 - 🧠 Currently researching **Text-to-Image Diffusion Models** and **Large Language Models (LLMs)**.  
-- 🎓 Pursuing a BEng in **Computer Science** at KLE Technological University, graduating in 2025.  
+- 🎓 Pursuing a Engineering in **Computer Science** at KLE Technological University, graduating in 2025.  
 - 🏆 **Second Place Winner** in the **Mood Cast Podcast Competition (IIT Bombay)**.  
 
 ---
@@ -17,7 +17,6 @@
 - 🖌️ **Digital Art & Graphic Design** (I love using **Canva** and **Figma**)  
 - 🎵 **Music Enthusiast** (Always vibing to my favorite playlists!)  
 - 🌏 **Traveling** and exploring new places for inspiration.  
-- ✍️ Writing poetry and exploring new storytelling techniques.
 
 ---
 
