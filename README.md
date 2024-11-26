@@ -34,7 +34,7 @@ Here are some of the technologies and tools I love working with:
 ---
 
 ## 🔥 Fun Facts About Me
-- 🤩 I **fight only with people I love the most** – my mom and my lover. 💕  
+- 🤩 I **fight only with people I love the most** 💕  
 - 🎉 I love creating small projects, even if they're just for fun.  
 - 🚀 My dream is to build **AI-driven apps** that empower creativity worldwide.  
 
