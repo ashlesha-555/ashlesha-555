@@ -5,7 +5,7 @@
 
 ---
 ## 💻 Meet the Coder!
-![Girl Coding](https://github.com/ashlesha-555/your-repo-name/blob/main/girl-coding.gif)
+![Girl Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 _I love coding and creating projects that inspire and challenge me!_
 
