@@ -5,9 +5,10 @@
 
 ---
 ## 💻 Meet the Coder!
-![Girl Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Girl Coding](https://github.com/ashlesha-555/your-repo-name/blob/main/girl-coding.gif)
 
 _I love coding and creating projects that inspire and challenge me!_
+
 
 ## ✨ About Me
 - 👩‍💻 **AI Enthusiast** | **Frontend Developer** | **Graphic Designer**  
