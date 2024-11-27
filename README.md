@@ -4,6 +4,10 @@
 > _"Life is like coding – full of bugs, but that's what makes the journey exciting!"_
 
 ---
+## 💻 Meet the Coder!
+![Girl Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+_I love coding and creating projects that inspire and challenge me!_
 
 ## ✨ About Me
 - 👩‍💻 **AI Enthusiast** | **Frontend Developer** | **Graphic Designer**  
